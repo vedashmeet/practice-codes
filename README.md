@@ -65,3 +65,6 @@
 | 63 | Write a program to perform application of tower of hanoi using stack | [Click](https://github.com/vedashmeet/practice-codes/blob/master/c%2B%2B/towerOfHanoi.cpp) |
 | 64 | Write a program to perform insertion and deletion operation in circular queue | [Click](https://github.com/vedashmeet/practice-codes/blob/master/c%2B%2B/circularQueueOperations.cpp) |
 | 65 | Write a program to insert, delete and display details of students using singly linked list | [Click](https://github.com/vedashmeet/practice-codes/blob/master/c%2B%2B/basicOperationsInSinglyLinkedList.cpp) |
+| 66 | Write a program to insert, delete and display details of employee using doubly linked list | [Click](https://github.com/vedashmeet/practice-codes/blob/master/c%2B%2B/basicOperationsInDoublyLinkedList.cpp) |
+| 67 | Write a program to traverse a binary tree using inorder, preorder and postorder traversal method | [Click](https://github.com/vedashmeet/practice-codes/blob/master/c%2B%2B/traversingOfBinarySearchTree.cpp) |
+| 68 | Write a program to search an element from array using linear and binary searching method | [Click](https://github.com/vedashmeet/practice-codes/blob/master/c%2B%2B/linearNBinarysearching.cpp) |
