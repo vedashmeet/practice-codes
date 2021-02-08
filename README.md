@@ -1,7 +1,7 @@
 # Practice CODES
-###### For Github Page (https://vedashmeet.github.io/practice-codes/)
-###### For Github Repository (https://github.com/vedashmeet/practice-codes/)
-#### To master any language, first we have to perform some basic codes. I have given the index for the programs that I have performed in my beginning time. You can navigate to the program by just clicking on the 'Click' link.
+##### For Github Page ([https://vedashmeet.github.io/practice-codes/](https://vedashmeet.github.io/practice-codes/))
+##### For Github Repository ([https://github.com/vedashmeet/practice-codes/](https://github.com/vedashmeet/practice-codes/))
+### To master any language, first we have to perform some basic codes. I have given the index for the programs that I have performed in my beginning time. You can navigate to the program by just clicking on the 'Click' link.
 
 ## C++ Codes
 
