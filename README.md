@@ -172,3 +172,19 @@
 | 87 | Write a program to design a simple library management system. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/java/Central.java) |
 | 88 | Write a program to design a simple tic-tac-toe game. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/java/TicTacToe.java) |
 | 89 | Write a program to design a calculator using Applets. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/java/Calculator.java) |
+
+
+## Python Codes
+
+| S.No. | Name of Program | Direct Link |
+| ----- | --------------- | ----------- |
+| 1 | Write a program to print Hello World. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/printHelloWorld.py) |
+| 2 | Write a program to add two numbers. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/addTwoNum.py) |
+| 3 | Write a program to print larger of three numbers. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/largerOfThree.py) |
+| 4 | Write a program to check whether given number is even or odd. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/evenOrOdd.py) |
+| 5 | Write a program to check whether given number is prime or not. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/checkPrimeOrNot.py) |
+| 6 | Write a program to print prime numbers in range from 0 to N. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/printPrimeInRange.py) |
+| 7 | Write a program to elaborate how we use switch case. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/elaborateSwitch.py) |
+| 8 | Write a program to perform basic operations of queue. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/basicQOperation.py) |
+| 9 | Write a program to perform basic operations of stack. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/basicStackOperation.py) |
+| 10 | Write a program to print different traversals of binary tree. | [Click](https://github.com/vedashmeet/practice-codes/blob/master/python/traverseBinaryTree.py) |
